@@ -1,5 +1,6 @@
 torch
 torchvision
+cython~=0.29.14
 huggingface_hub>=0.16.4
 youtokentome~=1.0.6
 more_itertools>=8.12.0
